@@ -1,23 +1,28 @@
 
 # 🎓 Coding Camp 2026 — DBS Foundation x Dicoding Indonesia
 
-> Certificate of Completion | Full-Stack Web Developer
+<p align="center">
+  <strong>Full-Stack Web Developer Learning Path</strong><br>
+  Certificate, Learning Materials, Assignments, and Program Documentation
+</p>
+
+---
 
 ## 📌 About This Repository
 
-This repository documents my successful completion of **Coding Camp 2026 powered by DBS Foundation**, a technology training program developed in collaboration between DBS Foundation and Dicoding Indonesia.
+This repository contains my learning archive and documentation from **Coding Camp 2026 powered by DBS Foundation**, organized in collaboration with Dicoding Indonesia.
 
-The program provided comprehensive learning experiences in software development, cloud computing, web technologies, front-end and back-end development, career preparation, and professional skills.
+I completed the Full-Stack Web Developer learning specialization, covering frontend development, backend development, cloud computing, React, JavaScript, and professional skills.
 
-I completed the **Full-Stack Web Developer** learning specialization and final project as part of the program.
+This repository serves as a structured archive of my learning journey, including program certificates, learning materials, team discussions, assignments, presentations, and project submissions.
 
-## 🏆 Program Details
+## 🏆 Program Information
 
 | Information | Details |
 |---|---|
 | Program | Coding Camp 2026 |
-| Partners | DBS Foundation x Dicoding Indonesia |
-| Specialization | Full-Stack Web Developer |
+| Program Partners | DBS Foundation & Dicoding Indonesia |
+| Learning Path | Full-Stack Web Developer |
 | Participant | Hendi Firmansah |
 | University | Politeknik Negeri Lampung |
 | Program Period | February 9 – July 20, 2026 |
@@ -31,69 +36,71 @@ I completed the **Full-Stack Web Developer** learning specialization and final p
 ```text
 Sertifikat-Coding-Camp-2026/
 ├── README.md
-└── 01-Sertifikat-Kelulusan-Program.pdf
+├── 01-Sertifikat-Kelulusan-Program.pdf
+├── 02-Diskusi-Tim.rar
+├── 03-Mandatory.rar
+├── 04-Materi.rar
+├── 05-Postman.rar
+├── 06-Presentasi.rar
+├── 07-Sertifikat.rar
+├── 08-Submission.rar
+├── 09-Surat-Penting.rar
+└── 10-Tugas-ILT.rar
 ```
 
-## 📚 Learning Journey
+## 📚 Archive Contents
 
-The program covered multiple areas of software development and professional growth, including:
+### 01. Certificate of Completion
+Contains the official Coding Camp 2026 completion certificate and Student Learning Achievement report.
 
-- Basic Programming for Software Developers
-- Programming Logic 101
-- Basic Cloud Computing and Generative AI on AWS
-- Basic Web Programming
-- Basic JavaScript Programming
-- Front-End Web Development
-- React Development
-- Web Application Fundamentals with React
-- Back-End Development with JavaScript
-- Back-End Fundamentals with JavaScript
-- Capstone / Final Project
-- Soft Skills and Career Development
+### 02. Team Discussions
+Archives materials related to team discussions and collaboration during the program.
 
-## 📊 Learning Achievement
+### 03. Mandatory Activities
+Contains mandatory program activities and related files.
 
-According to the Student Learning Achievement report included in the certificate PDF, my learning results included:
+### 04. Learning Materials
+Stores learning resources used throughout the Full-Stack Web Developer learning path.
 
-| Learning Activity | Score |
-|---|---:|
-| Basic Programming for Software Developers | 85 |
-| Programming Logic 101 | 93 |
-| Basic Cloud Computing and Generative AI on AWS | 84 |
-| Basic Web Programming | 93 |
-| Basic JavaScript Programming | 85 |
-| Build Front-End Web Applications for Beginners | 93 |
-| Build Web Apps with React | 88 |
-| Web Apps Fundamentals with React | 90 |
-| Back-End Development for Beginners with JavaScript | 85 |
-| Back-End Fundamentals with JavaScript | 85 |
-| Capstone / Final Project | 96 |
-| Soft Skills & Career Development | 81 |
+### 05. Postman
+Contains Postman-related files used for API learning, testing, or development activities.
 
-## 🚀 Skills Developed
+### 06. Presentations
+Stores presentation files prepared for learning activities or program discussions.
 
-Through this program, I strengthened my understanding of:
+### 07. Additional Certificates
+Contains other certificates collected during the program.
 
-- **Frontend Development:** HTML, CSS, JavaScript, and React
-- **Backend Development:** Node.js and RESTful API fundamentals
-- **Cloud Computing:** Basic cloud services and AWS concepts
-- **Software Development:** Programming logic, application architecture, and project development
-- **Professional Skills:** Communication, collaboration, and career preparation
+### 08. Submissions
+Archives assignment submissions and related deliverables.
 
-## 📄 Certificate Documentation
+### 09. Important Documents
+Contains important letters and administrative documents related to the program.
 
-The file `01-Sertifikat-Kelulusan-Program.pdf` contains:
+### 10. ILT Assignments
+Stores assignments and materials related to Instructor-Led Training (ILT) activities.
 
-1. Certificate of Completion for Coding Camp 2026.
-2. Student Learning Achievement report, including course scores and completion status.
+## 💻 Learning Areas
 
-## 🎯 Purpose of This Repository
+Throughout the program, I studied and practiced:
 
-- Preserve my learning achievements and program certificate.
+- HTML, CSS, and JavaScript
+- Frontend web development
+- React and component-based application development
+- Backend development with JavaScript and Node.js
+- RESTful API development
+- Basic cloud computing and generative AI on AWS
+- Programming logic and software development fundamentals
+- Capstone project development
+- Communication, collaboration, and career preparation
+
+## 🎯 Repository Goals
+
+- Preserve learning materials and program documentation.
+- Maintain an organized archive of assignments and submissions.
 - Document my Full-Stack Web Developer learning journey.
-- Showcase technical learning outcomes and capstone completion.
-- Support my academic portfolio and professional development.
-- Provide supporting documentation for internship and job applications.
+- Keep certificates and achievements accessible for portfolio purposes.
+- Support future learning, project development, and career opportunities.
 
 ## 👨‍💻 About Me
 
@@ -101,11 +108,13 @@ The file `01-Sertifikat-Kelulusan-Program.pdf` contains:
 Information Technology Student  
 Politeknik Negeri Lampung, Indonesia
 
-Interested in frontend development, full-stack engineering, modern web technologies, and building useful digital products.
+Interested in frontend development, full-stack engineering, modern web technologies, and building practical digital solutions.
 
-## 📌 Verification
+## 📌 Disclaimer
 
-This repository is intended for educational documentation and portfolio purposes. The certificate and learning results are based on the program document issued through Coding Camp 2026.
+This repository is maintained for personal learning documentation and portfolio purposes.
+
+Some archived files may contain internal learning materials, personal information, or team discussions. Please respect the privacy and distribution rules of the program organizers and other participants.
 
 ---
 
